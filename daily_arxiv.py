@@ -25,7 +25,6 @@ def load_config(config_file:str) -> dict:
     def pretty_filters(**config) -> dict:
         keywords = dict()
         EXCAPE = '\"'
-        QUOTA = '' # NO-USE
         OR = ' OR ' # TODO
         def parse_filters(filters:list):
             ret = ''
@@ -34,7 +33,7 @@ def load_config(config_file:str) -> dict:
                 if len(filter.split()) > 1:
                     ret += (EXCAPE + filter + EXCAPE)
                 else:
-                    ret += (QUOTA + filter + QUOTA)
+                    ret += (filter)
                 if idx != len(filters) - 1:
                     ret += OR
             return ret
