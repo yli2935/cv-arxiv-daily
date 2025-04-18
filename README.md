@@ -18,7 +18,7 @@
 
 ## SLAM
 
-|Publish Date|Title|Authors|PDF|Description|
+|Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|null|
 |**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634](http://arxiv.org/abs/2504.11634)|null|
@@ -915,7 +915,7 @@
 
 ## SFM
 
-|Publish Date|Title|Authors|PDF|Description|
+|Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|null|
 |**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|null|
@@ -1298,7 +1298,7 @@
 
 ## Visual Localization
 
-|Publish Date|Title|Authors|PDF|Description|
+|Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
@@ -2430,7 +2430,7 @@
 
 ## Keypoint Detection
 
-|Publish Date|Title|Authors|PDF|Description|
+|Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
 |**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031](http://arxiv.org/abs/2504.11031)|null|
@@ -2729,7 +2729,7 @@
 
 ## Image Matching
 
-|Publish Date|Title|Authors|PDF|Description|
+|Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
@@ -3051,7 +3051,7 @@
 
 ## NeRF
 
-|Publish Date|Title|Authors|PDF|Description|
+|Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
@@ -4619,52 +4619,52 @@
 
 ## LLM
 
-|Publish Date|Title|Authors|PDF|Description|
+|Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|We adapt alignment techniques from reasoning LLMs to the task of generating engineering sketch constraints found in computer-aided design (CAD) models. Engineering sketches consist of geometric primit...|
-|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|Scaling test-time compute has emerged as a key ingredient for enabling large language models (LLMs) to solve difficult problems, but comes with high latency and inference cost. We introduce sleep-time...|
-|**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|Large Language Models (LLMs) have shown tremendous potential as agents, excelling at tasks that require multiple rounds of reasoning and interactions. Rejection Sampling Fine-Tuning (RFT) has emerged ...|
-|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|Reward models (RMs) are essential for aligning Large Language Models (LLMs) with human preferences. However, they often struggle with capturing complex human preferences and generalizing to unseen dat...|
-|**2025-04-17**|**LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard**|Varun Rao et.al.|[2504.13125](http://arxiv.org/abs/2504.13125)|This paper investigates the application of large language models (LLMs) to financial tasks. We fine-tuned foundation models using the Open FinLLM Leaderboard as a benchmark. Building on Qwen2.5 and De...|
-|**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122](http://arxiv.org/abs/2504.13122)|Large Video Models (LVMs) built upon Large Language Models (LLMs) have shown promise in video understanding but often suffer from misalignment with human intuition and video hallucination issues. To a...|
-|**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092](http://arxiv.org/abs/2504.13092)|Video Anomaly Detection~(VAD) focuses on identifying anomalies within videos. Supervised methods require an amount of in-domain training data and often struggle to generalize to unseen anomalies. In c...|
-|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|Large language model (LLM) agents are increasingly employing retrieval-augmented generation (RAG) to improve the factuality of their responses. However, in practice, these systems often need to handle...|
-|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|Recent advances in video generation have been driven by diffusion models and autoregressive frameworks, yet critical challenges persist in harmonizing prompt adherence, visual quality, motion dynamics...|
-|**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068](http://arxiv.org/abs/2504.13068)|This study explores the relationship between deep learning (DL) model accuracy and expert agreement in the classification of crash narratives. We evaluate five DL models -- including BERT variants, th...|
+|**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
+|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|null|
+|**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
+|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|null|
+|**2025-04-17**|**LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard**|Varun Rao et.al.|[2504.13125](http://arxiv.org/abs/2504.13125)|null|
+|**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122](http://arxiv.org/abs/2504.13122)|null|
+|**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092](http://arxiv.org/abs/2504.13092)|null|
+|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|null|
+|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068](http://arxiv.org/abs/2504.13068)|null|
 
 <p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 ## machine learning
 
-|Publish Date|Title|Authors|PDF|Description|
+|Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|Vision-language models are integral to computer vision research, yet many high-performing models remain closed-source, obscuring their data, design and training recipe. The research community has resp...|
-|**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|We adapt alignment techniques from reasoning LLMs to the task of generating engineering sketch constraints found in computer-aided design (CAD) models. Engineering sketches consist of geometric primit...|
-|**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174](http://arxiv.org/abs/2504.13174)|We propose a distinct approach to solving linear and nonlinear differential equations (DEs) on quantum computers by encoding the problem into ground states of effective Hamiltonian operators. Our algo...|
-|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|Designing efficient and effective architectural backbones has been in the core of research efforts to enhance the capability of foundation models. Inspired by the human cognitive phenomenon of attenti...|
-|**2025-04-17**|**MIB: A Mechanistic Interpretability Benchmark**|Aaron Mueller et.al.|[2504.13151](http://arxiv.org/abs/2504.13151)|How can we know whether new mechanistic interpretability methods achieve real improvements? In pursuit of meaningful and lasting evaluation standards, we propose MIB, a benchmark with two tracks spann...|
-|**2025-04-17**|**Transfer Learning via Auxiliary Labels with Application to Cold-Hardiness Prediction**|Kristen Goebel et.al.|[2504.13142](http://arxiv.org/abs/2504.13142)|Cold temperatures can cause significant frost damage to fruit crops depending on their resilience, or cold hardiness, which changes throughout the dormancy season. This has led to the development of p...|
-|**2025-04-17**|**Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo**|João Loula et.al.|[2504.13139](http://arxiv.org/abs/2504.13139)|A wide range of LM applications require generating text that conforms to syntactic or semantic constraints. Imposing such constraints can be naturally framed as probabilistic conditioning, but exact g...|
-|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|Reward models (RMs) are essential for aligning Large Language Models (LLMs) with human preferences. However, they often struggle with capturing complex human preferences and generalizing to unseen dat...|
-|**2025-04-17**|**Science-T2I: Addressing Scientific Illusions in Image Synthesis**|Jialuo Li et.al.|[2504.13129](http://arxiv.org/abs/2504.13129)|We present a novel approach to integrating scientific knowledge into generative models, enhancing their realism and consistency in image synthesis. First, we introduce Science-T2I, an expert-annotated...|
-|**2025-04-17**|**Force and Speed in a Soft Stewart Platform**|Jake Ketchum et.al.|[2504.13127](http://arxiv.org/abs/2504.13127)|Many soft robots struggle to produce dynamic motions with fast, large displacements. We develop a parallel 6 degree-of-freedom (DoF) Stewart-Gough mechanism using Handed Shearing Auxetic (HSA) actuato...|
+|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
+|**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
+|**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174](http://arxiv.org/abs/2504.13174)|null|
+|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|null|
+|**2025-04-17**|**MIB: A Mechanistic Interpretability Benchmark**|Aaron Mueller et.al.|[2504.13151](http://arxiv.org/abs/2504.13151)|null|
+|**2025-04-17**|**Transfer Learning via Auxiliary Labels with Application to Cold-Hardiness Prediction**|Kristen Goebel et.al.|[2504.13142](http://arxiv.org/abs/2504.13142)|null|
+|**2025-04-17**|**Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo**|João Loula et.al.|[2504.13139](http://arxiv.org/abs/2504.13139)|null|
+|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|null|
+|**2025-04-17**|**Science-T2I: Addressing Scientific Illusions in Image Synthesis**|Jialuo Li et.al.|[2504.13129](http://arxiv.org/abs/2504.13129)|null|
+|**2025-04-17**|**Force and Speed in a Soft Stewart Platform**|Jake Ketchum et.al.|[2504.13127](http://arxiv.org/abs/2504.13127)|null|
 
 <p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 ## Health
 
-|Publish Date|Title|Authors|PDF|Description|
+|Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-25**|**Probing cellular activity via charge-sensitive quantum nanoprobes**|Uri Zvi et.al.|[2503.20816](http://arxiv.org/abs/2503.20816)|Nitrogen-vacancy (NV) based quantum sensors hold great potential for real-time single-cell sensing with far-reaching applications in fundamental biology and medical diagnostics. Although highly sensit...|
-|**2024-10-24**|**A spectral method for multi-view subspace learning using the product of projections**|Renat Sergazinov et.al.|[2410.19125](http://arxiv.org/abs/2410.19125)|Multi-view data provides complementary information on the same set of observations, with multi-omics and multimodal sensor data being common examples. Analyzing such data typically requires distinguis...|
-|**2023-02-24**|**Simulation toolkits at the molecular scale for trans-scale thermal signaling**|Ikuo Kurisaki et.al.|[2302.12932](http://arxiv.org/abs/2302.12932)|Thermogenesis is a physiological activity of releasing heat that originates from intracellular biochemical reactions. Recent experimental studies discovered that externally applied heat changes intrac...|
-|**2022-07-29**|**Exponential canonical correlation analysis with orthogonal variation**|Dongbang Yuan et.al.|[2208.00048](http://arxiv.org/abs/2208.00048)|Canonical correlation analysis (CCA) is a standard tool for studying associations between two data sources; however, it is not designed for data with count or proportion measurement types. In addition...|
-|**2020-01-16**|**Real-time nanodiamond thermometry probing in-vivo thermogenic responses**|Masazumi Fujiwara et.al.|[2001.02844](http://arxiv.org/abs/2001.02844)|Real-time temperature monitoring inside living organisms provides a direct measure of their biological activities, such as homeostatic thermoregulation and energy metabolism. However, it is challengin...|
-|**2018-12-14**|**Murburn scheme for thermogenesis mediated by uncoupling protein**|Kelath Murali Manoj et.al.|[1812.06089](http://arxiv.org/abs/1812.06089)|Thermogenesis by uncoupling protein (UCP) has traditionally been explained as the dissipation of proton gradient across the inner mitochondrial membrane into heat. Herein, we propose that UCPs, aided ...|
-|**2018-03-29**|**Theoretical Model and Characteristics of Mitochondrial Thermogenesis**|Jian-Sheng Kang et.al.|[1712.04112](http://arxiv.org/abs/1712.04112)|Mitochondria of brown adipocyte (BA) are the main intracellular sites for thermogenesis, which have been targeted for therapy to reduce obesity. However, there are long-standing critique and debates a...|
-|**2014-07-16**|**The MetaboX library: building metabolic networks from KEGG database**|Francesco Maiorano et.al.|[1402.5062](http://arxiv.org/abs/1402.5062)|In many key applications of metabolomics, such as toxicology or nutrigenomics, it is of interest to profile and detect changes in metabolic processes, usually represented in the form of pathways. As a...|
-|**2013-04-28**|**A remote response of ATP hydrolysis**|Xin Liu et.al.|[1304.7441](http://arxiv.org/abs/1304.7441)|ATP-hydrolysis is the basic energy source of many physiological processes, but there is a lack of knowledge regarding its biological role other than energy transfer and thermogenesis. Not all the ener...|
-|**2012-08-08**|**Potential of Traditional Medicinal Plants for Treating Obesity: A Review**|Mahnaz Kazemipoor et.al.|[1208.1923](http://arxiv.org/abs/1208.1923)|Obesity is a global health concern associated with high morbidity and mortality. Therapeutic strategies include synthetic drugs and surgery, which may entail high costs and serious complications. Plan...|
+|**2025-03-25**|**Probing cellular activity via charge-sensitive quantum nanoprobes**|Uri Zvi et.al.|[2503.20816](http://arxiv.org/abs/2503.20816)|null|
+|**2024-10-24**|**A spectral method for multi-view subspace learning using the product of projections**|Renat Sergazinov et.al.|[2410.19125](http://arxiv.org/abs/2410.19125)|null|
+|**2023-02-24**|**Simulation toolkits at the molecular scale for trans-scale thermal signaling**|Ikuo Kurisaki et.al.|[2302.12932](http://arxiv.org/abs/2302.12932)|null|
+|**2022-07-29**|**Exponential canonical correlation analysis with orthogonal variation**|Dongbang Yuan et.al.|[2208.00048](http://arxiv.org/abs/2208.00048)|**[link](https://github.com/irinastatslab/ecca)**|
+|**2020-01-16**|**Real-time nanodiamond thermometry probing in-vivo thermogenic responses**|Masazumi Fujiwara et.al.|[2001.02844](http://arxiv.org/abs/2001.02844)|null|
+|**2018-12-14**|**Murburn scheme for thermogenesis mediated by uncoupling protein**|Kelath Murali Manoj et.al.|[1812.06089](http://arxiv.org/abs/1812.06089)|null|
+|**2018-03-29**|**Theoretical Model and Characteristics of Mitochondrial Thermogenesis**|Jian-Sheng Kang et.al.|[1712.04112](http://arxiv.org/abs/1712.04112)|null|
+|**2014-07-16**|**The MetaboX library: building metabolic networks from KEGG database**|Francesco Maiorano et.al.|[1402.5062](http://arxiv.org/abs/1402.5062)|null|
+|**2013-04-28**|**A remote response of ATP hydrolysis**|Xin Liu et.al.|[1304.7441](http://arxiv.org/abs/1304.7441)|null|
+|**2012-08-08**|**Potential of Traditional Medicinal Plants for Treating Obesity: A Review**|Mahnaz Kazemipoor et.al.|[1208.1923](http://arxiv.org/abs/1208.1923)|null|
 
 <p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
