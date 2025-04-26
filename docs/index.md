@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/abs/2504.17768)|null|
+|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-04-24**|**Towards Robust LLMs: an Adversarial Robustness Measurement Framework**|Natan Levy et.al.|[2504.17723](http://arxiv.org/abs/2504.17723)|null|
+|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720](http://arxiv.org/abs/2504.17720)|null|
+|**2025-04-24**|**Ensemble Bayesian Inference: Leveraging Small Language Models to Achieve LLM-level Accuracy in Profile Matching Tasks**|Haru-Tada Sato et.al.|[2504.17685](http://arxiv.org/abs/2504.17685)|null|
+|**2025-04-24**|**INSIGHT: Bridging the Student-Teacher Gap in Times of Large Language Models**|Jarne Thys et.al.|[2504.17677](http://arxiv.org/abs/2504.17677)|null|
+|**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/abs/2504.17674)|null|
+|**2025-04-24**|**Cross-region Model Training with Communication-Computation Overlapping and Delay Compensation**|Ying Zhu et.al.|[2504.17672](http://arxiv.org/abs/2504.17672)|null|
+|**2025-04-24**|**Towards a HIPAA Compliant Agentic AI System in Healthcare**|Subash Neupane et.al.|[2504.17669](http://arxiv.org/abs/2504.17669)|null|
 |**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837](http://arxiv.org/abs/2504.13837)|null|
 |**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
 |**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
@@ -34,6 +44,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Unleashing the Power of Natural Audio Featuring Multiple Sound Sources**|Xize Cheng et.al.|[2504.17782](http://arxiv.org/abs/2504.17782)|null|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771](http://arxiv.org/abs/2504.17771)|null|
+|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/abs/2504.17768)|null|
+|**2025-04-24**|**Disaggregated Deep Learning via In-Physics Computing at Radio Frequency**|Zhihui Gao et.al.|[2504.17752](http://arxiv.org/abs/2504.17752)|null|
+|**2025-04-24**|**MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction**|Steven E. Wilson et.al.|[2504.17749](http://arxiv.org/abs/2504.17749)|null|
+|**2025-04-24**|**Embedding Empirical Distributions for Computing Optimal Transport Maps**|Mingchen Jiang et.al.|[2504.17740](http://arxiv.org/abs/2504.17740)|null|
+|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739](http://arxiv.org/abs/2504.17739)|null|
+|**2025-04-24**|**EgoCHARM: Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor**|Akhil Padmanabha et.al.|[2504.17735](http://arxiv.org/abs/2504.17735)|null|
+|**2025-04-24**|**Optical to infrared mapping of vapor-to-liquid phase change dynamics using generative machine learning**|Siavash Khodakarami et.al.|[2504.17726](http://arxiv.org/abs/2504.17726)|null|
 |**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
 |**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822](http://arxiv.org/abs/2504.13822)|null|
 |**2025-04-18**|**CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning**|Yang Yue et.al.|[2504.13820](http://arxiv.org/abs/2504.13820)|**[link](https://github.com/LeapLabTHU/CheXWorld)**|
