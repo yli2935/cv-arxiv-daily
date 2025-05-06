@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**TRAVELER: A Benchmark for Evaluating Temporal Reasoning across Vague, Implicit and Explicit References**|Svenja Kenneweg et.al.|[2505.01325](http://arxiv.org/abs/2505.01325)|null|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
+|**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
+|**2025-05-02**|**EvalxNLP: A Framework for Benchmarking Post-Hoc Explainability Methods on NLP Models**|Mahdi Dhaini et.al.|[2505.01238](http://arxiv.org/abs/2505.01238)|null|
+|**2025-05-02**|**LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**|Francisco Aguilera-Martínez et.al.|[2505.01177](http://arxiv.org/abs/2505.01177)|null|
+|**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162](http://arxiv.org/abs/2505.01162)|null|
+|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150](http://arxiv.org/abs/2505.01150)|null|
+|**2025-05-02**|**Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications**|Jiawei He et.al.|[2505.01146](http://arxiv.org/abs/2505.01146)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**X-Fusion: Introducing New Modality to Frozen Large Language Models**|Sicheng Mo et.al.|[2504.20996](http://arxiv.org/abs/2504.20996)|null|
 |**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
@@ -54,6 +64,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**GENMO: A GENeralist Model for Human MOtion**|Jiefeng Li et.al.|[2505.01425](http://arxiv.org/abs/2505.01425)|null|
+|**2025-05-02**|**Computational, Data-Driven, and Physics-Informed Machine Learning Approaches for Microstructure Modeling in Metal Additive Manufacturing**|D. Patel et.al.|[2505.01424](http://arxiv.org/abs/2505.01424)|null|
+|**2025-05-02**|**Negative Stepsizes Make Gradient-Descent-Ascent Converge**|Henry Shugart et.al.|[2505.01423](http://arxiv.org/abs/2505.01423)|null|
+|**2025-05-02**|**Evaluating Frontier Models for Stealth and Situational Awareness**|Mary Phuong et.al.|[2505.01420](http://arxiv.org/abs/2505.01420)|null|
+|**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415](http://arxiv.org/abs/2505.01415)|null|
+|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406](http://arxiv.org/abs/2505.01406)|null|
+|**2025-05-02**|**Accelerating point defect photo-emission calculations with machine learning interatomic potentials**|Kartikeya Sharma et.al.|[2505.01403](http://arxiv.org/abs/2505.01403)|null|
+|**2025-05-02**|**Predicting the Price of Gold in the Financial Markets Using Hybrid Models**|Mohammadhossein Rashidi et.al.|[2505.01402](http://arxiv.org/abs/2505.01402)|null|
+|**2025-05-02**|**SIME: Enhancing Policy Self-Improvement with Modal-level Exploration**|Yang Jin et.al.|[2505.01396](http://arxiv.org/abs/2505.01396)|null|
+|**2025-05-02**|**Learning and Transferring Physical Models through Derivatives**|Alessandro Trenta et.al.|[2505.01391](http://arxiv.org/abs/2505.01391)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**GDP-GFCF Dynamics Across Global Economies: A Comparative Study of Panel Regressions and Random Forest**|Alina Landowska et.al.|[2504.20993](http://arxiv.org/abs/2504.20993)|null|
 |**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
