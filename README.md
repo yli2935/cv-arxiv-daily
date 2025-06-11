@@ -1,4 +1,4 @@
-## Updated on 2025.06.09
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002](http://arxiv.org/abs/2506.08002)|null|
+|**2025-06-09**|**Reparameterized LLM Training via Orthogonal Equivalence Transformation**|Zeju Qiu et.al.|[2506.08001](http://arxiv.org/abs/2506.08001)|null|
+|**2025-06-09**|**Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System**|Fan Yang et.al.|[2506.07997](http://arxiv.org/abs/2506.07997)|null|
+|**2025-06-09**|**HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization**|Hongzheng Chen et.al.|[2506.07972](http://arxiv.org/abs/2506.07972)|null|
+|**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964](http://arxiv.org/abs/2506.07964)|null|
+|**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/abs/2506.07963)|null|
+|**2025-06-09**|**Correlated Errors in Large Language Models**|Elliot Kim et.al.|[2506.07962](http://arxiv.org/abs/2506.07962)|null|
+|**2025-06-09**|**TokenBreak: Bypassing Text Classification Models Through Token Manipulation**|Kasimir Schulz et.al.|[2506.07948](http://arxiv.org/abs/2506.07948)|null|
+|**2025-06-09**|**Statistical Hypothesis Testing for Auditing Robustness in Language Models**|Paulius Rauba et.al.|[2506.07947](http://arxiv.org/abs/2506.07947)|null|
 |**2025-06-04**|**Language-Image Alignment with Fixed Text Encoders**|Jingfeng Yang et.al.|[2506.04209](http://arxiv.org/abs/2506.04209)|null|
 |**2025-06-04**|**EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**|Jinghan Jia et.al.|[2506.04205](http://arxiv.org/abs/2506.04205)|null|
 |**2025-06-04**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203](http://arxiv.org/abs/2506.04203)|null|
@@ -125,12 +135,22 @@
 |**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|**[link](https://github.com/skyworkai/skyreels-v2)**|
 |**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068](http://arxiv.org/abs/2504.13068)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## machine learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
+|**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**Reparameterized LLM Training via Orthogonal Equivalence Transformation**|Zeju Qiu et.al.|[2506.08001](http://arxiv.org/abs/2506.08001)|null|
+|**2025-06-09**|**MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation**|Junhao Chen et.al.|[2506.07999](http://arxiv.org/abs/2506.07999)|null|
+|**2025-06-09**|**Generative Modeling of Weights: Generalization or Memorization?**|Boya Zeng et.al.|[2506.07998](http://arxiv.org/abs/2506.07998)|null|
+|**2025-06-09**|**Rethinking Crowd-Sourced Evaluation of Neuron Explanations**|Tuomas Oikarinen et.al.|[2506.07985](http://arxiv.org/abs/2506.07985)|null|
+|**2025-06-09**|**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**|Mingquan Lin et.al.|[2506.07984](http://arxiv.org/abs/2506.07984)|null|
+|**2025-06-09**|**Scalable Machine Learning Models for Predicting Quantum Transport in Disordered 2D Hexagonal Materials**|Seyed Mahdi Mastoor et.al.|[2506.07983](http://arxiv.org/abs/2506.07983)|null|
+|**2025-06-09**|**Real-time Localization of a Soccer Ball from a Single Camera**|Dmitrii Vorobev et.al.|[2506.07981](http://arxiv.org/abs/2506.07981)|null|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227](http://arxiv.org/abs/2506.04227)|null|
 |**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
 |**2025-06-04**|**Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs**|Alex DeWeese et.al.|[2506.04215](http://arxiv.org/abs/2506.04215)|null|
@@ -242,7 +262,7 @@
 |**2025-04-17**|**Science-T2I: Addressing Scientific Illusions in Image Synthesis**|Jialuo Li et.al.|[2504.13129](http://arxiv.org/abs/2504.13129)|null|
 |**2025-04-17**|**Force and Speed in a Soft Stewart Platform**|Jake Ketchum et.al.|[2504.13127](http://arxiv.org/abs/2504.13127)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Health
 
@@ -259,7 +279,7 @@
 |**2013-04-28**|**A remote response of ATP hydrolysis**|Xin Liu et.al.|[1304.7441](http://arxiv.org/abs/1304.7441)|null|
 |**2012-08-08**|**Potential of Traditional Medicinal Plants for Treating Obesity: A Review**|Mahnaz Kazemipoor et.al.|[1208.1923](http://arxiv.org/abs/1208.1923)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
