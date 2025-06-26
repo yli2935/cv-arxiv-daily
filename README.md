@@ -1,4 +1,4 @@
-## Updated on 2025.06.23
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
+|**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
+|**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
+|**2025-06-24**|**KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality**|Baochang Ren et.al.|[2506.19807](http://arxiv.org/abs/2506.19807)|null|
+|**2025-06-24**|**LLM-Based Social Simulations Require a Boundary**|Zengqing Wu et.al.|[2506.19806](http://arxiv.org/abs/2506.19806)|null|
+|**2025-06-24**|**KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs**|Xin Fan Guo et.al.|[2506.19802](http://arxiv.org/abs/2506.19802)|null|
+|**2025-06-24**|**Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study**|Yuqi Zhu et.al.|[2506.19794](http://arxiv.org/abs/2506.19794)|null|
+|**2025-06-24**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783](http://arxiv.org/abs/2506.19783)|null|
+|**2025-06-24**|**Canary in the Mine: An LLM Augmented Survey of Disciplinary Complaints to the Ordre des ingénieurs du Québec (OIQ)**|Tammy Mackenzie et.al.|[2506.19775](http://arxiv.org/abs/2506.19775)|null|
+|**2025-06-24**|**Automatic Prompt Optimization for Knowledge Graph Construction: Insights from an Empirical Study**|Nandana Mihindukulasooriya et.al.|[2506.19773](http://arxiv.org/abs/2506.19773)|null|
 |**2025-06-18**|**PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning**|Yuhui Shi et.al.|[2506.15683](http://arxiv.org/abs/2506.15683)|null|
 |**2025-06-18**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Byung-Kwan Lee et.al.|[2506.15681](http://arxiv.org/abs/2506.15681)|null|
 |**2025-06-18**|**CC-LEARN: Cohort-based Consistency Learning**|Xiao Ye et.al.|[2506.15662](http://arxiv.org/abs/2506.15662)|null|
@@ -155,12 +165,22 @@
 |**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|**[link](https://github.com/skyworkai/skyreels-v2)**|
 |**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068](http://arxiv.org/abs/2504.13068)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## machine learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
+|**2025-06-24**|**Orthogonal Finetuning Made Scalable**|Zeju Qiu et.al.|[2506.19847](http://arxiv.org/abs/2506.19847)|null|
+|**2025-06-24**|**A Comparative Study of NAFNet Baselines for Image Restoration**|Vladislav Esaulov et.al.|[2506.19845](http://arxiv.org/abs/2506.19845)|null|
+|**2025-06-24**|**Convergence of Mean Shift Algorithms for Large Bandwidths and Simultaneous Accurate Clustering**|Susovan Pal et.al.|[2506.19837](http://arxiv.org/abs/2506.19837)|null|
+|**2025-06-24**|**Machine Learning with Privacy for Protected Attributes**|Saeed Mahloujifar et.al.|[2506.19836](http://arxiv.org/abs/2506.19836)|null|
+|**2025-06-24**|**A standard transformer and attention with linear biases for molecular conformer generation**|Viatcheslav Gurev et.al.|[2506.19834](http://arxiv.org/abs/2506.19834)|null|
+|**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
+|**2025-06-24**|**Persona Features Control Emergent Misalignment**|Miles Wang et.al.|[2506.19823](http://arxiv.org/abs/2506.19823)|null|
+|**2025-06-24**|**Exact Matrix Seriation through Mathematical Optimization: Stress and Effectiveness-Based Models**|Víctor Blanco et.al.|[2506.19821](http://arxiv.org/abs/2506.19821)|null|
+|**2025-06-24**|**ProxelGen: Generating Proteins as 3D Densities**|Felix Faltings et.al.|[2506.19820](http://arxiv.org/abs/2506.19820)|null|
 |**2025-06-18**|**Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards**|Qingming Liu et.al.|[2506.15684](http://arxiv.org/abs/2506.15684)|null|
 |**2025-06-18**|**Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**|Kaifeng Zhang et.al.|[2506.15680](http://arxiv.org/abs/2506.15680)|null|
 |**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679](http://arxiv.org/abs/2506.15679)|null|
@@ -302,12 +322,13 @@
 |**2025-04-17**|**Science-T2I: Addressing Scientific Illusions in Image Synthesis**|Jialuo Li et.al.|[2504.13129](http://arxiv.org/abs/2504.13129)|null|
 |**2025-04-17**|**Force and Speed in a Soft Stewart Platform**|Jake Ketchum et.al.|[2504.13127](http://arxiv.org/abs/2504.13127)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Health
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Harnessing Diet and Gene Expression Insights through a Centralized Nutrigenomics Database to Improve Public Health**|Fahmida Hai et.al.|[2506.19093](http://arxiv.org/abs/2506.19093)|null|
 |**2025-03-25**|**Probing cellular activity via charge-sensitive quantum nanoprobes**|Uri Zvi et.al.|[2503.20816](http://arxiv.org/abs/2503.20816)|null|
 |**2024-10-24**|**A spectral method for multi-view subspace learning using the product of projections**|Renat Sergazinov et.al.|[2410.19125](http://arxiv.org/abs/2410.19125)|null|
 |**2023-02-24**|**Simulation toolkits at the molecular scale for trans-scale thermal signaling**|Ikuo Kurisaki et.al.|[2302.12932](http://arxiv.org/abs/2302.12932)|null|
@@ -319,7 +340,7 @@
 |**2013-04-28**|**A remote response of ATP hydrolysis**|Xin Liu et.al.|[1304.7441](http://arxiv.org/abs/1304.7441)|null|
 |**2012-08-08**|**Potential of Traditional Medicinal Plants for Treating Obesity: A Review**|Mahnaz Kazemipoor et.al.|[1208.1923](http://arxiv.org/abs/1208.1923)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
